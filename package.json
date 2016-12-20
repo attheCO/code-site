@@ -1,0 +1,22 @@
+{
+  "name": "code-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/attheCO/code-site.git"
+  },
+  "author": "chance smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/attheCO/code-site/issues"
+  },
+  "homepage": "https://github.com/attheCO/code-site#readme",
+  "devDependencies": {
+    "gulp-less": "^3.3.0"
+  }
+}
