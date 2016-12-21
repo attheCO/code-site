@@ -59,8 +59,8 @@
           <span class="icon-bar"></span>
         </button>
         <div class="navbar-brand logo">
-          <a class="brand" href="http://code.attheco.com">CO:de</a>
-          <a class="umbrella-brand">@theCO</a>
+          <a href="http://code.attheco.com" class="brand">CO:de</a>
+          <a href="http://attheco.com" class="umbrella-brand">@theCO</a>
         </div>
       </div>
       <!-- Collect the nav links, forms, and other content for toggling -->
