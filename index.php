@@ -107,7 +107,7 @@
         <p>
           <a href="https://www.youtube.com/channel/UCylbtOa0TuZeW4m_wN40oBA"><img src="./assets/images/code-videos.gif" alt="code-videos" class="img-responsive"></a>
         </p>
-        <p><a href="https://www.youtube.com/channel/UCylbtOa0TuZeW4m_wN40oBA" class="btn btn-default">Join Us<?php echo $thisMonth; ?></a></p>
+        <p><a href="https://www.youtube.com/channel/UCylbtOa0TuZeW4m_wN40oBA" class="btn btn-default">Start Learning Now</a></p>
 
       </div>
       <div class="col-md-6">
@@ -126,6 +126,16 @@
       </div>
     </div>
   </div> <!-- /container -->
+
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+          <p class="text-center">&copy; <?php echo date('Y'); ?> theCO | 541 Wiley Parker Rd, Jackson, Tennessee 38305 |&nbsp;731.554.5555 | <a target="_blank" href="mailto:info@attheco.com">email us</a></p>
+        </div>
+      </div>
+    </div>
+  </footer> <!-- /container -->
 
 </body>
 </html>
