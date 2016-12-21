@@ -91,7 +91,7 @@
 
           <h1>Build Your Coding Skills Together</h1>
           <p>Our next meetup is <?php echo $today; ?><?php echo $third_Tuesday; ?> @theCO.</p>
-          <a href="#" class="btn btn-default">Join Us<?php echo $thisMonth; ?></a>
+          <a href="https://www.attheco.com/allevents/code" class="btn btn-default">Join Us<?php echo $thisMonth; ?></a>
 
         </div>
       </div>
