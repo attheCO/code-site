@@ -104,7 +104,9 @@
 
         <h2>Watch videos from the last meetup.</h2>
         <p>Every month we have new instructional videos from the last meetup's coding talks.</p>
-        <a href="https://www.youtube.com/channel/UCylbtOa0TuZeW4m_wN40oBA"><img src="./assets/images/code-videos.gif" alt="code-videos" class="img-responsive"></a>
+        <p>
+          <a href="https://www.youtube.com/channel/UCylbtOa0TuZeW4m_wN40oBA"><img src="./assets/images/code-videos.gif" alt="code-videos" class="img-responsive"></a>
+        </p>
         <p><a href="https://www.youtube.com/channel/UCylbtOa0TuZeW4m_wN40oBA" class="btn btn-default">Join Us<?php echo $thisMonth; ?></a></p>
 
       </div>
