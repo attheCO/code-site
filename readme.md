@@ -7,3 +7,4 @@
 
 ##sources
 - (background header animation)[https://codepen.io/asfarmed/pen/cfslr]
+- (meetup date logic)[http://stackoverflow.com/a/22754235/3979495]
