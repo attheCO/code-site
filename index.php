@@ -70,7 +70,7 @@
             <a href="https://www.attheco.com/allevents/code">Meetups</a>
           </li>
           <li>
-            <a href="https://www.youtube.com/channel/UCylbtOa0TuZeW4m_wN40oBA">Videos</a>
+            <a href="https://www.youtube.com/playlist?list=PLnmaTbl4XQyQfwDVYnq9q5Tf4pNdl1Dh1">Videos</a>
           </li>
           <li>
             <a href="http://devcatalyst.com">Dev.Catalyst</a>
@@ -105,9 +105,9 @@
         <h2>Watch videos from the last meetup.</h2>
         <p>Every month we have new instructional videos from the last meetup's coding talks.</p>
         <p>
-          <a href="https://www.youtube.com/channel/UCylbtOa0TuZeW4m_wN40oBA"><img src="./assets/images/code-videos.gif" alt="code-videos" class="img-responsive"></a>
+          <a href="https://www.youtube.com/playlist?list=PLnmaTbl4XQyQfwDVYnq9q5Tf4pNdl1Dh1"><img src="./assets/images/code-videos.gif" alt="code-videos" class="img-responsive"></a>
         </p>
-        <p><a href="https://www.youtube.com/channel/UCylbtOa0TuZeW4m_wN40oBA" class="btn btn-default">Start Learning Now</a></p>
+        <p><a href="https://www.youtube.com/playlist?list=PLnmaTbl4XQyQfwDVYnq9q5Tf4pNdl1Dh1" class="btn btn-default">Start Learning Now</a></p>
 
       </div>
       <div class="col-md-6">
