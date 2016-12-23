@@ -25,14 +25,38 @@
       $third_Tuesday = date("l, F d, Y", strtotime("third tuesday", mktime(0,0,0,$currMonth,1,$currYear)));
     }
   }
+
+  // page variables
+  $title = "Coding Meetup for Jackson, TN | CO:de";
+  $description = "Become a coder. Join us" . $today . $third_Tuesday . "@theCO";
+  $shareImage = "./assets/images/code-page.png";
+  $pageURL = "http://code.attheco.com";
 ?>
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Coding Meetup for Jackson, TN | CO:de</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title><?php echo $title; ?></title>
+  <meta name="description" content="<?php echo $description; ?>">
+  <!-- for Google -->
+  <meta name="description" content="<?php echo $description; ?>" />
+  <meta name="author" content="theCO" />
+
+  <!-- for Facebook -->          
+  <meta property="og:title" content="<?php echo $title; ?>" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="<?php echo $shareImage; ?>" />
+  <meta property="og:url" content="<?php echo $pageURL; ?>" />
+  <meta property="og:description" content="<?php echo $description; ?>" />
+
+  <!-- for Twitter -->          
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="<?php echo $title; ?>" />
+  <meta name="twitter:description" content="<?php echo $description; ?>" />
+  <meta name="twitter:image" content="<?php echo $shareImage; ?>" />
   
   <!-- fonts -->
   <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700|Open+Sans:400,700" rel="stylesheet">
