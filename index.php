@@ -1,7 +1,7 @@
 <?php
   //vars
   $today = '';
-  $thisMonth = 'This Month';
+  $thisMonth = ' This Month';
   // if you must, manually put in a date
   $third_Tuesday = '';
   if($third_Tuesday === ''){
