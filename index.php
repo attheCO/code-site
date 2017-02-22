@@ -148,6 +148,7 @@
         <p>
           <a href="https://www.sublimetext.com/3" class="btn btn-default btn-outline btn-pill"><i class="fa fa-link"></i> sublime text</a>
           <a href="https://try.github.io/levels/1/challenges/1" class="btn btn-default btn-outline btn-pill"><i class="fa fa-link"></i> git</a>
+          <a href="http://fontawesome.io/icons/" class="btn btn-default btn-outline btn-pill"><i class="fa fa-link"></i> font awesome</a>
         </p>
 
         <h2>Want to be a CO:de Speaker?</h2>
