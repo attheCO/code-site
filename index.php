@@ -1,5 +1,5 @@
 <?php
-  //vars
+  // vars
   $today = '';
   $thisMonth = ' This Month';
   // if you must, manually put in a date
