@@ -46,19 +46,19 @@
   <meta name="description" content="<?php echo $description; ?>" />
   <meta name="author" content="theCO" />
 
-  <!-- for Facebook -->          
+  <!-- for Facebook -->
   <meta property="og:title" content="<?php echo $title; ?>" />
   <meta property="og:type" content="website" />
   <meta property="og:image" content="<?php echo $shareImage; ?>" />
   <meta property="og:url" content="<?php echo $pageURL; ?>" />
   <meta property="og:description" content="<?php echo $description; ?>" />
 
-  <!-- for Twitter -->          
+  <!-- for Twitter -->
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:title" content="<?php echo $title; ?>" />
   <meta name="twitter:description" content="<?php echo $description; ?>" />
   <meta name="twitter:image" content="<?php echo $shareImage; ?>" />
-  
+
   <!-- fonts -->
   <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700|Open+Sans:400,700" rel="stylesheet">
 
@@ -70,7 +70,7 @@
   <!-- scripts -->
   <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
   <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  
+
   <!-- Heap analytics -->
   <script type="text/javascript">
     window.heap=window.heap||[],heap.load=function(e,t){window.heap.appid=e,window.heap.config=t=t||{};var r=t.forceSSL||"https:"===document.location.protocol,a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src=(r?"https:":"http:")+"//cdn.heapanalytics.com/js/heap-"+e+".js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(a,n);for(var o=function(e){return function(){heap.push([e].concat(Array.prototype.slice.call(arguments,0)))}},p=["addEventProperties","addUserProperties","clearEventProperties","identify","removeEventProperty","setEventProperties","track","unsetEventProperty"],c=0;c<p.length;c++)heap[p[c]]=o(p[c])};
@@ -106,8 +106,11 @@
           <li>
             <a href="http://devcatalyst.com">Dev.Catalyst</a>
           </li>
-          <li>
+          <!-- <li>
             <a href="http://bit.ly/codemeetupsurvey">Survey</a>
+          </li> -->
+          <li>
+            <a href="http://eepurl.com/cGc24v">Sign Up</a>
           </li>
         </ul>
       </div>
