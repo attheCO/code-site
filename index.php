@@ -146,7 +146,7 @@
       </div>
       <div class="col-md-6">
 
-        <h2>Web Developer Tool Built</h2>
+        <h2>Web Developer Toolbelt</h2>
         <p>Here are some tools we love and encourage beginners to learn about.</p>
         <p>
           <a href="https://www.sublimetext.com/3" class="btn btn-default btn-outline btn-pill"><i class="fa fa-link"></i> sublime text</a>
