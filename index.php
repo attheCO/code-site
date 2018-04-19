@@ -124,8 +124,8 @@
         <div class="col-md-8 col-md-offset-2 text-center">
 
           <h1>Build Your Coding Skills Together</h1>
-          <p>Our next meetup is <?php echo $today; ?><?php echo $third_Tuesday; ?> @theCO.</p>
-          <a href="https://www.attheco.com/allevents/2017/10/16/code" class="btn btn-default">Join Us<?php echo $thisMonth; ?></a>
+          <!-- <p>Our next meetup is <?php echo $today; ?><?php echo $third_Tuesday; ?> @theCO.</p>
+          <a href="https://www.attheco.com/allevents/2017/10/16/code" class="btn btn-default">Join Us<?php echo $thisMonth; ?></a> -->
 
         </div>
       </div>
